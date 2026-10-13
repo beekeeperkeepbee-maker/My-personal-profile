@@ -1,1 +1,5 @@
-# My-personal-profile
+- 🔭 I’m currently searching for: **My first beginner-friendly project to build!**
+- 🌱 I’m currently learning: **JS**
+- 👯 I’m looking to collaborate on: **Beginner-friendly open source projects**
+- 🤔 I’m looking for help with: **Finding good project ideas and best practices**
+- 💬 Ask me about: **My journey into tech!**
